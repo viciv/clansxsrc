@@ -1,0 +1,96 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/otserv/forgottenserver/src/actions.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/actions.cpp.o"
+  "/otserv/forgottenserver/src/ban.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/ban.cpp.o"
+  "/otserv/forgottenserver/src/baseevents.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/baseevents.cpp.o"
+  "/otserv/forgottenserver/src/beds.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/beds.cpp.o"
+  "/otserv/forgottenserver/src/chat.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/chat.cpp.o"
+  "/otserv/forgottenserver/src/combat.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/combat.cpp.o"
+  "/otserv/forgottenserver/src/commands.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/commands.cpp.o"
+  "/otserv/forgottenserver/src/condition.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/condition.cpp.o"
+  "/otserv/forgottenserver/src/configmanager.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/configmanager.cpp.o"
+  "/otserv/forgottenserver/src/connection.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/connection.cpp.o"
+  "/otserv/forgottenserver/src/container.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/container.cpp.o"
+  "/otserv/forgottenserver/src/creature.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/creature.cpp.o"
+  "/otserv/forgottenserver/src/creatureevent.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/creatureevent.cpp.o"
+  "/otserv/forgottenserver/src/cylinder.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/cylinder.cpp.o"
+  "/otserv/forgottenserver/src/database.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/database.cpp.o"
+  "/otserv/forgottenserver/src/databasemanager.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/databasemanager.cpp.o"
+  "/otserv/forgottenserver/src/depotchest.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/depotchest.cpp.o"
+  "/otserv/forgottenserver/src/depotlocker.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/depotlocker.cpp.o"
+  "/otserv/forgottenserver/src/events.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/events.cpp.o"
+  "/otserv/forgottenserver/src/fileloader.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/fileloader.cpp.o"
+  "/otserv/forgottenserver/src/game.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/game.cpp.o"
+  "/otserv/forgottenserver/src/globalevent.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/globalevent.cpp.o"
+  "/otserv/forgottenserver/src/groups.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/groups.cpp.o"
+  "/otserv/forgottenserver/src/guild.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/guild.cpp.o"
+  "/otserv/forgottenserver/src/house.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/house.cpp.o"
+  "/otserv/forgottenserver/src/housetile.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/housetile.cpp.o"
+  "/otserv/forgottenserver/src/inbox.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/inbox.cpp.o"
+  "/otserv/forgottenserver/src/ioguild.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/ioguild.cpp.o"
+  "/otserv/forgottenserver/src/iologindata.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/iologindata.cpp.o"
+  "/otserv/forgottenserver/src/iomap.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/iomap.cpp.o"
+  "/otserv/forgottenserver/src/iomapserialize.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/iomapserialize.cpp.o"
+  "/otserv/forgottenserver/src/iomarket.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/iomarket.cpp.o"
+  "/otserv/forgottenserver/src/item.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/item.cpp.o"
+  "/otserv/forgottenserver/src/items.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/items.cpp.o"
+  "/otserv/forgottenserver/src/luascript.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/luascript.cpp.o"
+  "/otserv/forgottenserver/src/mailbox.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/mailbox.cpp.o"
+  "/otserv/forgottenserver/src/map.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/map.cpp.o"
+  "/otserv/forgottenserver/src/monster.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/monster.cpp.o"
+  "/otserv/forgottenserver/src/monsters.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/monsters.cpp.o"
+  "/otserv/forgottenserver/src/mounts.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/mounts.cpp.o"
+  "/otserv/forgottenserver/src/movement.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/movement.cpp.o"
+  "/otserv/forgottenserver/src/networkmessage.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/networkmessage.cpp.o"
+  "/otserv/forgottenserver/src/npc.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/npc.cpp.o"
+  "/otserv/forgottenserver/src/otpch.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/otpch.cpp.o"
+  "/otserv/forgottenserver/src/otserv.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/otserv.cpp.o"
+  "/otserv/forgottenserver/src/outfit.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/outfit.cpp.o"
+  "/otserv/forgottenserver/src/outputmessage.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/outputmessage.cpp.o"
+  "/otserv/forgottenserver/src/party.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/party.cpp.o"
+  "/otserv/forgottenserver/src/player.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/player.cpp.o"
+  "/otserv/forgottenserver/src/position.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/position.cpp.o"
+  "/otserv/forgottenserver/src/protocol.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/protocol.cpp.o"
+  "/otserv/forgottenserver/src/protocolgame.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/protocolgame.cpp.o"
+  "/otserv/forgottenserver/src/protocollogin.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/protocollogin.cpp.o"
+  "/otserv/forgottenserver/src/protocolold.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/protocolold.cpp.o"
+  "/otserv/forgottenserver/src/protocolstatus.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/protocolstatus.cpp.o"
+  "/otserv/forgottenserver/src/quests.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/quests.cpp.o"
+  "/otserv/forgottenserver/src/raids.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/raids.cpp.o"
+  "/otserv/forgottenserver/src/rsa.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/rsa.cpp.o"
+  "/otserv/forgottenserver/src/scheduler.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/scheduler.cpp.o"
+  "/otserv/forgottenserver/src/scriptmanager.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/scriptmanager.cpp.o"
+  "/otserv/forgottenserver/src/server.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/server.cpp.o"
+  "/otserv/forgottenserver/src/spawn.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/spawn.cpp.o"
+  "/otserv/forgottenserver/src/spells.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/spells.cpp.o"
+  "/otserv/forgottenserver/src/talkaction.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/talkaction.cpp.o"
+  "/otserv/forgottenserver/src/tasks.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/tasks.cpp.o"
+  "/otserv/forgottenserver/src/teleport.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/teleport.cpp.o"
+  "/otserv/forgottenserver/src/thing.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/thing.cpp.o"
+  "/otserv/forgottenserver/src/tile.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/tile.cpp.o"
+  "/otserv/forgottenserver/src/tools.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/tools.cpp.o"
+  "/otserv/forgottenserver/src/trashholder.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/trashholder.cpp.o"
+  "/otserv/forgottenserver/src/vocation.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/vocation.cpp.o"
+  "/otserv/forgottenserver/src/waitlist.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/waitlist.cpp.o"
+  "/otserv/forgottenserver/src/weapons.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/weapons.cpp.o"
+  "/otserv/forgottenserver/src/wildcardtree.cpp" "/otserv/forgottenserver/build/CMakeFiles/tfs.dir/src/wildcardtree.cpp.o"
+  )
+SET(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# The include file search paths:
+SET(CMAKE_C_TARGET_INCLUDE_PATH
+  "/usr/include/mysql"
+  "/usr/include/lua5.2"
+  "/usr/include/x86_64-linux-gnu"
+  )
+SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

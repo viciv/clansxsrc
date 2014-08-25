@@ -1,0 +1,16 @@
+Performing C++ SOURCE FILE Test COMPILER_KNOWS_STDLIB failed with the following output:
+Change Dir: /otserv/forgottenserver/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec1889573398/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1889573398.dir/build.make CMakeFiles/cmTryCompileExec1889573398.dir/build
+make[1]: Entering directory `/otserv/forgottenserver/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /otserv/forgottenserver/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1889573398.dir/src.cxx.o
+/usr/bin/c++    -Wall -Werror -std=c++11  -DCOMPILER_KNOWS_STDLIB   -stdlib=libc++ -o CMakeFiles/cmTryCompileExec1889573398.dir/src.cxx.o -c /otserv/forgottenserver/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option ‘-stdlib=libc++’
+make[1]: *** [CMakeFiles/cmTryCompileExec1889573398.dir/src.cxx.o] Error 1
+make[1]: Leaving directory `/otserv/forgottenserver/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec1889573398/fast] Error 2
+
+Source file was:
+int main() { return 0;}
